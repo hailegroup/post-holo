@@ -1,2 +1,5 @@
 # post-holo
-Processing of post-holography reconstructions
+Processing of holography reconstructions
+
+To use, run "python hologram_post_processing.py"
+Loads .hdf5 file saved from Holoaverage reconstruction
